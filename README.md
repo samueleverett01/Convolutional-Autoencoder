@@ -1,2 +1,3 @@
 # Convolutional-Autoencoder
-A pair of convolutional autoencoders used for image compression and denoising.
+In this project, I implement a convolutional autoencoder for use in image compression, and then image denoising. 
+The model is trained and tested on the MNIST data set.
